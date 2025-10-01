@@ -40,9 +40,9 @@ Enhance climate resilience for 10,000+ farmers
 Strengthen market linkages across Makueni County
 
 Live Demo: https://nesa-platform.vercel.app/
+
+
 UNDP Kenya Hackathon: Hack-a-GreenFuture 2025 - Makueni County Challenge
 
 Built with ❤️ for Makueni's farming communities. Nesa means "Good" in Kamba - and we're building a good future for African agriculture, one harvest at a time.
-
-This version now has cultural relevance and emotional connection with the local community, making it even more impactful!
 
