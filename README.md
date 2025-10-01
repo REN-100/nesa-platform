@@ -1,4 +1,6 @@
 Nesa - Climate-Smart Agri-Marketplace for Makueni County
+
+
 Nesa (Kamba for "Good") is a digital platform bringing good opportunities to smallholder farmers in Makueni County. We connect farmers to reliable markets while building climate resilience, transforming climate vulnerability into economic opportunity through hyper-local weather intelligence and a forward marketplace.
 
 What Problem We Solve
